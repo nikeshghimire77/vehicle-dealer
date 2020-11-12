@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "ORZ9ckoCV/Nl20R/kFXaX+WceDMddjQjIxvNtwj+tOga7a4Cgh5Ka4A/yxsEhrZMmqu7JbOCxntuZnVdpADl1g==",
+  "dgSpecHash": "HEF/sYUwBXwAmNaR3wyixG97R5KYQUDEMSkisMcmdoCtAJUA5DUWVln+gFVopopAAIk5yL3bkR/SdhW8/oy1Iw==",
   "success": true,
   "projectFilePath": "E:\\Project\\vega\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\shres\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
+    "C:\\Users\\shres\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\7.0.0\\automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",
     "C:\\Users\\shres\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\shres\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
