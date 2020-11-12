@@ -10,6 +10,7 @@ namespace Infrastructure.Data
 
         public DbSet<Make> Make { get; set; }
         public DbSet<Feature> Feature { get; set; }
+        public DbSet<Vehicle> Vehicle { get; set; }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
