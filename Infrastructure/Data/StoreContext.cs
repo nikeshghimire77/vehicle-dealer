@@ -9,6 +9,7 @@ namespace Infrastructure.Data
         public StoreContext(DbContextOptions<StoreContext> options) : base(options) { }
 
         public DbSet<Make> Make { get; set; }
+        public DbSet<Feature> Feature { get; set; }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
